@@ -1,0 +1,53 @@
+#Cursor Colour
+*.cursorBlink: 1
+*.cursorUnderline: 1
+*.cursorColor: #D8DEE9
+*.pointerBlank: 1
+
+#Fake Transparency
+*.transparent: true
+*.shading: 60
+
+#Font size and colour
+*.font: xft: monospace: size=10.5
+*.letterSpace: -1
+
+#Removes scrollbar
+*.scrollBar: false
+
+#Fading
+*.fading: 5
+*.fadeColor: #ffffff
+
+#Background Colour and Opacity
+*.foreground: #D8DEE9
+*.background: #2E3440
+
+#Font Colours
+#Color theme https://github.com/arcticicestudio/nord-xresources/blob/develop/src/nord
+#Normal and Bright
+
+#Black
+*.color0:#3B4252
+*.color8:#4C566A
+#Red
+*.color1:#BF616A
+*.color9:#BF616A
+#Green
+*.color2:#A3BE8C
+*.color10:#A3B28C
+#Yellow
+*.color3:#EBCB8B
+*.color11:#EBCB8B
+#Blue
+*.color4:#81A1C1
+*.color12:#81A1C1
+#Purple
+*.color5:#B48EAD
+*.color13:#B48EAD
+#Cyan
+*.color6:#88C0D0
+*.color14:#8FBCBB
+#White
+*.color7:#EGE9F0
+*.color15:#ECEFF4
